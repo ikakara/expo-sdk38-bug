@@ -1,4 +1,4 @@
-import { StatusBar } from "expo-status-bar";
+//import { StatusBar } from "expo-status-bar";
 import * as React from "react";
 import { Button, View, StyleSheet } from "react-native";
 import { createDrawerNavigator } from "@react-navigation/drawer";
@@ -11,7 +11,7 @@ function HomeScreen({ navigation }) {
         onPress={() => navigation.navigate("Notifications")}
         title="Go to notifications"
       />
-      <StatusBar style="auto" />
+      {/*<StatusBar style="auto" />*/}
     </View>
   );
 }
