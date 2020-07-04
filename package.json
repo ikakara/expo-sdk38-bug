@@ -46,8 +46,7 @@
     }
   },
   "resolutions": {
-    "logkitty": "^0.7.1",
-    "react-native-safe-area-context": "1.0.2"
+    "logkitty": "^0.7.1"
   },
   "dependencies": {
     "@react-navigation/drawer": "^5.8.4",
