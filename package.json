@@ -11,6 +11,7 @@
     "dependencies": {
       "@react-navigation/drawer": "^5.8.4",
       "@react-navigation/native": "^5.6.1",
+      "logkitty": "^0.7.1",
       "expo": "~38.0.8",
       "expo-status-bar": "^1.0.2",
       "react": "^16.13.1",
@@ -25,7 +26,7 @@
   "dependencies": {
     "@react-navigation/drawer": "^5.8.4",
     "@react-navigation/native": "^5.6.1",
-    "logkitty": "0.7.1",
+    "logkitty": "^0.7.1",
     "expo": "37.0.3",
     "react": "16.9.0",
     "react-dom": "16.9.0",
