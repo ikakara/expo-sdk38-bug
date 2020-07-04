@@ -23,8 +23,8 @@
     }
   },
   "dependencies": {
-    "@react-navigation/drawer": "5.5.1",
-    "@react-navigation/native": "5.5.1",
+    "@react-navigation/drawer": "^5.8.4",
+    "@react-navigation/native": "^5.6.1",
     "logkitty": "0.7.1",
     "expo": "37.0.3",
     "react": "16.9.0",
