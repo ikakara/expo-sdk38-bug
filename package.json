@@ -45,6 +45,9 @@
       "react-native-web": "~0.13.1"
     }
   },
+  "resolutions": {
+    "logkitty": "^0.7.1"
+  },
   "dependencies": {
     "@react-navigation/drawer": "^5.8.4",
     "@react-navigation/native": "^5.6.1",
