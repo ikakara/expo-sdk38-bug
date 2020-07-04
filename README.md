@@ -14,6 +14,10 @@ Appears related to this bug <https://github.com/th3rdwave/react-native-safe-area
 
 Try code on Snack: <https://snack.expo.io/@ikakara/github.com-ikakara-expo-sdk38-bug>
 
+**Reported issue:**
+
+<https://github.com/expo/expo/issues/9095>
+
 ## Tested with SDK37 which I'm not sure gives much insight
 
 For SDK37, the last working version of react-native-safe-area-context is 1.0.2.
