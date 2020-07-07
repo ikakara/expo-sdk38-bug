@@ -1,4 +1,4 @@
-# Expo SDK38 is broken on iOS (works on Android and Web) - tested on snack
+# Expo SDK38 is broken on iOS (works on Android and Web) - fixed on snack
 
 Using the simple [drawer example](https://reactnavigation.org/docs/drawer-based-navigation/). Running the app on iOS returns the following error (works on Android and Web):
 
